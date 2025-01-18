@@ -1,4 +1,8 @@
-﻿/*E14131011 劉冠霆 版權所有 拷貝必究*/
+﻿/*	Project name :	HW01_01
+	Student number:	E14131011
+	Author:			Kuan-Ting Liu
+	Class: 乙						*/
+
 #include <iostream>
 
 int main(void) {
